@@ -1,2 +1,12 @@
 venv
 data
+__pycache__
+*.pyc
+*.csv
+*.txt
+*.log
+.ipynb_checkpoints
+venv/
+env/
+.DS_Store
+.PyCaret
